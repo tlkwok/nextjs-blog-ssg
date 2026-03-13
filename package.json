@@ -5,6 +5,7 @@
     "build": "next build"
   },
   "dependencies": {
+    "@paper-design/shaders-react": "^0.0.71",
     "next": "15.1.10",
     "react": "^19.0.0",
     "react-dom": "^19.0.0"
